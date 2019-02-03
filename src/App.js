@@ -10,7 +10,7 @@ import CreateProject from "./components/project/CreateProject";
 /*
 mapStateToProps is a function that you would use to provide the store data to your component, whereas mapDispatchToProps is something that you will use to provide the action creators as props to your component.*/
 
-//continue from 17.
+//continue from 20.
 class App extends Component {
   render() {
     return (
